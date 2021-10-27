@@ -14,7 +14,7 @@ MI CORREO: danielsandoval286214@gmail.com
 /////////////////////////
 ///GUIA DE INSTALACION///
 /////////////////////////
-1. ve a la pestaña "Files" o ya que estas leyendo esto sólo da clic aqui: Files
+1. ve a la pestaña "Files" desde este link: https://www.curseforge.com/minecraft/mc-mods/deathquotes-death-quotes/files
 
 2. una vez descargado e instalado el archivo, tienes que abrir minecraft e ir a a esta ruta: opciones>paquete de recursos>abrir la carpeta
 
