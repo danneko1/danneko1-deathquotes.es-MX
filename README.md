@@ -2,9 +2,9 @@
 hola buenas
 
 para aquellos que busquen una VERSION EN ESPAÑOL...aquí está mi aporte: deathquotes.es-MX
-.///////////
-.///DATOS///
-.///////////
+///////////
+///DATOS///
+///////////
 no hay acentos porque el texto de minecraft los escribe de manera muy extraña
 gran parte de las frases tienen guiños a méxico
 
