@@ -1,4 +1,4 @@
-# danneko1-deathquotes.es-MX
+# danneko1-deathquotes en español México
 hola buenas
 
 para aquellos que busquen una VERSION EN ESPAÑOL...aquí está mi aporte
