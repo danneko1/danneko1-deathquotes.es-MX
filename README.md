@@ -1,7 +1,7 @@
 # danneko1-deathquotes.es-MX
 hola buenas
 
-para aquellos que busquen una VERSION EN ESPAÑOL...aquí está mi aporte: deathquotes.es-MX
+para aquellos que busquen una VERSION EN ESPAÑOL...aquí está mi aporte
 
 ///////////
 ///DATOS///
