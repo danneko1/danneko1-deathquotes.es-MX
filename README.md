@@ -13,9 +13,7 @@ solo hay 100 frases, si tienes alguna sugerencia puedes enviarmela sin dudarlo a
 
 MI CORREO: danielsandoval286214@gmail.com
 
-/////////////////////////
 ///GUIA DE INSTALACION///
-/////////////////////////
 
 1. descarga la versión de deathquotes compatible con tu versión de minecraft java: https://www.curseforge.com/minecraft/mc-mods/deathquotes-death-quotes/files
 
